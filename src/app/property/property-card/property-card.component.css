@@ -1,0 +1,10 @@
+.custom-card-img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover; /* Optional: Ensures the image covers the area without distortion */
+}
+.custom-card {
+    padding: 10px; /* Adjust as needed */
+    background-color: white; /* Ensures the card background is white */
+}
+
